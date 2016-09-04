@@ -30,7 +30,7 @@ node_modules
 .npm
 
 # Webstorm files
-.idea
+.server/.idea
 
 # Optional REPL history
 .node_repl_history
