@@ -12,8 +12,10 @@ This is a nodejs backend with a MongoDB for ClinicRun.
 6. Run node server
 
 example :
-        module.exports = {
-                jwtsecret : '123456879798bfbg',
-                db_local_url: 'mongodb://127.0.0.1:27017/your-db-name',
-                port: 7000
-            }
+```javascript
+module.exports = {
+    jwtsecret : '123456879798bfbg',
+    db_local_url: 'mongodb://127.0.0.1:27017/your-db-name',
+    port: 7000
+}
+```
