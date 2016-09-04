@@ -1,0 +1,23 @@
+{
+  "name": "e-clinic",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "server.js"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "~1.12.0",
+    "express": "~4.12.2",
+    "jsonwebtoken": "^5.7.0",
+    "mongoose": "^4.4.11",
+    "socketio": "^1.0.0",
+    "socketio-jwt": "^4.3.4"
+  },
+  "description": "7 minute workout",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [
+    "health"
+  ],
+  "author": "tundaey"
+}
